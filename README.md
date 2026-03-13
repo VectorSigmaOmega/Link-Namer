@@ -1,3 +1,5 @@
+<!-- HIDE_FROM_PORTFOLIO -->
+
 # Link-Namer
 Jupyter Notebook to take hypertext links in a .txt file and give their corresponding names in a .xls  file
 
